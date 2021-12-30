@@ -1,0 +1,8 @@
+.App{
+    background-image: url('./images/btcbg.jpg');
+    background-size: cover;
+}
+
+.card:hover{
+    cursor: pointer;
+}
